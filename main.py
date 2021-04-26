@@ -3,7 +3,7 @@ import random
 import discord
 from discord.ext import commands
 
-TOKEN = "ODE5OTEwNDU4NTUwOTExMDI2.YEtfHg.ZfMy4G0IvqvgrZ3ZytnIi8SLgQU"   # Токен бота
+TOKEN = ""   # Токен бота
 
 # для проверки списка пользователей
 intents = discord.Intents.default()
